@@ -1,6 +1,6 @@
 # Nand2Tetris Capstone Report
 
-**Student roll number:** 2501730421  
+**Student roll number:** 2501730487 
 **Personal parameter:** K = 21  
 **Project:** Hack CPU, memory system, assembler, and key-controlled screen output
 
